@@ -1,0 +1,12 @@
+スライドショー
+https://toretama.jp/automatic-slideshow-image.html
+https://lab.sonicmoov.com/markup/css/image-slider/
+https://copypet.jp/648/
+https://fukafuka295.jp/homepage-slideshow-kantan/　　プラグインが必要あり
+https://begeeek.com/article/838/	見た感じ一番簡単な可能性あり
+
+サイドバー作成
+https://uxmilk.jp/7915
+
+画像横並び
+https://csshtml.work/img-3sidebyside/
