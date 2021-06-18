@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <title>J映画情報サイト</title>
+     <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+  <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333;text-align:center;">
+    <h1><font size="32">J映画情報サイト</font></h1>
+  </div>
+<br/>
+<div align="center">
+<table border="5"width="750" height="60">
+  <font size="20">
+  <tr>
+  <td><font size="4">HOME</font></td>
+  <td><font size="4">公開中の映画</font></td>
+  <td><font size="4">公開予定の映画</font></td>
+  <td><font size="4">管理者のおすすめ映画</font></td>
+  </tr>
+  </font>
+</table>
+</div>
+<br/>
+
+<br/>
+  <table border="3">
+    <td><a href="リンク先のＵＲＬ">映画大好きポンポさん</a></td>
+    <td>公開予定日　2021/6/4</td>
+  </table>
+
+  <div align="center">
+  <div id="css-slider">
+  	<div class="slider-wrapper">
+  		<div class="slide-item"><img src="pic/ponp1.jpg" width="400" height="200"></div>
+  		<div class="slide-item"><img src="pic/ponpo2.jpg" width="400" height="200"></div>
+  		<div class="slide-item"><img src="pic/ponpo3.jpg" width="400" height="200"></div>
+  	</div>
+  </div>
+</div>
+<table boder=2>
+<br>解説
+<br>
+  <br>杉谷庄吾【人間プラモ】の同人コミックを劇場アニメ化。大物プロデューサーの孫で自信もその才能を
+  <br>受け継いだポンポさんのもとで、製作アシスタントを務める映画通青年ジーン。映画を撮ることに
+  <br>憧れながらも自分には無理だと諦めかけていたが、ポンポさんに１５秒のCMの製作を任され、
+  <br>映画づくりの楽しさを知る。ある日、ジーンはポンポさんから新作映画「MEISTER」の脚本を渡される。
+  <br>伝説の俳優マーティンの復帰策でもあるその映画に監督として指名されたのはなんとジーンだった。
+  <br>ポンポさんの目にとまった新人女優ナタリーをヒロインに迎え波乱万丈の撮影がスタートするが．．．
+</table>
+<br>スタッフ・キャスト
+<br>
+<br>監督　　　　　　　　　　　　　　　ジーン/ジーンフィニ
+<br>平尾隆之　　　　　　　　　　　　　清水尋也
+  <br>
+  <br>原作　　　　　　　　　　　　　　　ポンポさん/ジョエル・ダヴィドビッチ・ポンポネット
+  <br>杉谷庄吾【人間プラモ】　　　　　　小原好美
+  <br>
+  <br>脚本　　　　　　　　　　　　　　　ナタリー/ナタリー・ウッドワード
+  <br>平尾隆之                        大谷凛香
+  <br>
+  <br>キャラクターデザイン　　　　　　　ミスティア
+  <br>足立慎吾　　　　　　　　　　　　　加隈亜依
+  <br>
+  <br>
+  <br>
+  <!-- customize labels of htmlcommentbox.com -->
+<script>
+/* This code goes ABOVE the main HTML Comment Box code!
+ replace the text in the single quotes below to customize labels.*/
+hcb_user = {
+    /* L10N */
+    comments_header : '映画レビュー',
+    name_label : 'ユーザーネーム',
+    content_label: 'ここにコメントをする',
+    submit : 'コメントを送信',
+    logout_link : '<img title="log out" src="https://www.htmlcommentbox.com/static/images/door_out.svg" alt="[logout]" class="hcb-icon hcb-door-out"/>',
+    admin_link : '<img src="https://www.htmlcommentbox.com/static/images/door_in.svg" alt="[login]" class="hcb-icon hcb-door-in"/>',
+    no_comments_msg: 'No one has commented yet. Be the first!',
+    add:'Add your comment',
+    again: 'Post another comment',
+    rss:'<img src="https://www.htmlcommentbox.com/static/images/feed.svg" class="hcb-icon" alt="rss"/> ',
+    said:'said:',
+    prev_page:'<img src="https://www.htmlcommentbox.com/static/images/arrow_left.png" class="hcb-icon" title="previous page" alt="[prev]"/>',
+    next_page:'<img src="https://www.htmlcommentbox.com/static/images/arrow_right.png" class="hcb-icon" title="next page" alt="[next]"/>',
+    showing:'Showing',
+    to:'to',
+    website_label:'website (optional)',
+    email_label:'email',
+    anonymous:'Anonymous',
+    mod_label:'(mod)',
+    subscribe:'Email Me Replies',
+    add_image:'Add Image',
+    are_you_sure:'Do you want to flag this comment as inappropriate?',
+
+    reply:'Reply',
+    flag:'Flag',
+    like:'Like',
+
+    /* dates */
+    days_ago:'days ago',
+    hours_ago:'hours ago',
+    minutes_ago:'minutes ago',
+    within_the_last_minute:'within the last minute',
+
+    msg_thankyou:'Thank you for commenting!',
+    msg_approval:'NOTE: This comment is not published until approved',
+    msg_approval_required:'Thank you for commenting! Your comment will appear once approved by a moderator.',
+
+    err_bad_html:'Your comment contained bad html.',
+    err_bad_email:'Please enter a valid email address.',
+    err_too_frequent:'You must wait a few seconds between posting comments.',
+    err_comment_empty:'Your comment was not posted because it was empty!',
+    err_denied:'Your comment was not accepted.',
+    err_unknown:'Your comment was blocked for unknown reasons, please report this.',
+    err_spam:'Your comment was detected as spam.',
+    err_blocked:'Your comment was blocked by site policy.',
+
+    /* SETTINGS */
+    MAX_CHARS: 8192,
+    PAGE:'', /* ID of the webpage to show comments for. defaults to the webpage the user is currently visiting. */
+    ON_COMMENT: function(){}, /* Function to call after commenting. */
+    RELATIVE_DATES:true /* show dates in the form "X hours ago." etc. */
+};
+</script>
+<!-- done customizing labels of htmlcommentbox.com -->
+<!-- begin wwww.htmlcommentbox.com -->
+ <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Comment Box</a> is loading comments...</div>
+ <link rel="stylesheet" type="text/css" href="https://www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
+ <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="https://www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24P5MeDI2f3tJEgd6NOjuco%2F"+"&opts=16862&num=10&ts=1623805933419");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
+<!-- end www.htmlcommentbox.com -->
+<br><br><br>
+<table border=1>
+  <td>ホーム　ヘルプ　このサイトについて　プライバシーポリシー</td>
+
+</table>
+  </body>
+</html>
