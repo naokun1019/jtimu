@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <title>J映画情報サイト</title>
+     <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+  <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333;text-align:center;">
+    <h1><font size="32">J映画情報サイト</font></h1>
+  </div>
+
+<br/>
+
+<div align="center">
+  <table border="5"width="750" height="60">
+    <font size="20">
+  <tr>
+    <td><font size="4"><a href="index.html">HOME</a></font></td>
+    <td><font size="4"><a href="リンク先のＵＲＬ">公開中の映画</a></font></td>
+    <td><font size="4"><a href="リンク先のＵＲＬ">公開予定の映画</a></font></td>
+    <td><font size="4"><a href="リンク先のＵＲＬ">管理者のおすすめ映画</a></font></td>
+  </tr>
+    </font>
+  </table>
+</div>
+<br/>
+
+<br/>
+<div>
+  <table border="3">
+    <td><a href="リンク先のＵＲＬ">公開中の映画</a></td>
+  </table>
+</div>
+<div>
+  <div><img src="pic/konan.jpg" alt="　　" width="150" height="250"align="left"vspace="10">　　　青山剛昌の人気コミックをアニメ化した大ヒットシリーズ「名探偵コナン」の劇場版24作目。</div>
+  　　　あああ<br><br clear="left"><a href="リンク先のＵＲＬ">「名探偵コナン緋色の弾丸」の詳しい情報はこちら</a>
+  <br>
+  <br clear="left"><img src="pic/ponpo.jpg" alt="　　" width="150" height="250"align="left"vspace="10">　　　<br>　　　杉谷庄吾【人間プラモ】の同人コミックを劇場アニメ化。
+  <br>　　　あああ　
+  <br clear="left"><a href="ponpo.html">「映画大好きポンポさん」の詳しい情報はこちら</a>
+  <br clear="left"><img src="pic/rurou.jpg" alt="　　" width="150" height="250"vspace="10">
+</div>
+
+<table border=1>
+  <td><a href="index.html">ホーム</a>　ヘルプ　このサイトについて　プライバシーポリシー</td>
+
+</table>
+  </body>
+</html>
