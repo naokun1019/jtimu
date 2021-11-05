@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>サイト</title>
+<link rel="stylesheet" href="css/style.css">
+   <link rel="stylesheet" href="css/menyuba.css">
+</head>
+  <body>
+    <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333;text-align:center;">
+          <h1><font size="32">映画サイト</font></h1>
+        </div>
+      <br/>
+      <div id="AB">
+      <div align="center">
+      <table border="7"width="850" height="60">
+        <font size="50">
+         <body bgcolor="">
+              <tr>
+                <th><font face="Comic Sans MS" size="4"><a href='gamenn.html'><font color="#000000">TOP</font></a></font></th>
+                <th><font face="Comic Sans MS" size="4"><a href=''><font color="#000000">過去作品</font></a></font></th>
+                <th><font face="Comic Sans MS" size="4"><a href='rebyu.html'><font color="#000000">レビュー</font></a></font></th>
+                <th><font face="Comic Sans MS" size="4"><a href='nyusu.html'><font color="#000000">ニュース</font></a></font></th>
+                <th><font face="Comic Sans MS" size="4"><a href='login.html'><font color="#000000">ログイン</font></a></font></th>
+                <th><font face="Comic Sans MS" size="4"><a href='otoiawase.html'><font color="#000000">問い合わせ</font></a></font></th>
+                    </font>
+                </table>
+              </div><br>
+<div style="text-align: center"><h1><font size="10">告白</font></h1></div>
+<div style="text-align: center">
+<img src="pic/arasujki/kokuhaku.jpg" alt="告白" width="500" height="600">
+</div>
+<br>
+<div style="text-align: center"><h1><font size="10">あらすじ</font></h1></div>
+<p><font size="6" face="ＭＳ 明朝"><li>「わたしは、シングルマザーです。わたしの娘は、死にました。警察は、事故死と判断しました。でも事故死ではありません。このクラスの生徒に殺されたんです」
+  <br>とある中学校の1年B組、終業式後の雑然としたホームルームで、教壇に立つ担任の森口悠子が静かに語り出した。
+  <br><br>森口は、妊娠後に娘の父親のHIV感染が判明したことで結婚しなかったと語り、娘を殺した犯人は2人いるが名前は明かさず少年A・少年Bと述べ、少年Aが電気ショックによって娘を気絶させたこと、居合わせた少年Bが気絶した娘をプールへ投げ入れ殺害したこと、その事実を警察へ伝えて蒸し返す気はないことなどを語る。森口は、犯人である2人の給食の牛乳の中に娘の父親の血液を入れた、HIVに感染するかどうかは運次第、2人には「命」をしっかりと噛み締めてほしいと告げると教室は騒然となる。
+  <br><br>娘を殺された中学校教師が生徒を相手に真相に迫っていくミステリー映画
+  </li></font>
+<br>
+<p>キャスト
+<p>森口　悠子：
+松 たか子
+<br><button type="button"><font size="4"><li><a href=''><img src="pic/arasujki/matutakako.jpg" alt="松たか子" width="300" height="200"></a></li></button>
+<p>渡辺 修哉（生徒A）：
+西井 幸人
+<br><button type="button"><font size="4"><li><a href='meitanteikonan.html'><img src="pic/arasujki/nisii.jpg" alt="西井幸人" width="200" height="250"></a></li></button>
+<p>下村 直樹（生徒B）：
+藤原 薫
+<br><button type="button"><font size="4"><li><a href='meitanteikonan.html'><img src="pic/arasujki/fujiwara.jpg" alt="藤原薫" width="300" height="250"></a></li></button>
+<p>北原 美月：
+橋本 愛
+<br><button type="button"><font size="4"><li><a href='meitanteikonan.html'><img src="pic/arasujki/hasimoto.jpg" alt="橋本愛" width="250" height="200"></a></li></button>
+<p>森口 愛美:
+芦田 愛菜
+<br><button type="button"><font size="4"><li><a href='meitanteikonan.html'><img src="pic/arasujki/asida.jpg" alt="芦田愛菜" width="300" height="200"></a></li></button>
+<p>寺田　良輝:
+岡田 将生
+<br><button type="button"><font size="4"><li><a href='meitanteikonan.html'><img src="pic/arasujki/okada.jpg" alt="岡田 将生" width="200" height="250"></a></li></button>
+
+
+<br>
+<p>スタッフ
+<p>
+原作：
+湊かなえ「告白」（双葉社刊）<br>
+<p>
+監督・脚本：
+中島　哲也<br>
+
+製作：
+島谷能成、百武弘二、吉田眞市、鈴木ゆたか、諸角裕、宮路敬久、北川直樹、喜多埜裕明、大宮敏靖<br>
+
+エグゼクティブ・プロデューサー：
+市川南、塚田泰浩<br>
+
+企画：
+川村元気<br>
+
+プロデューサー：
+石田雄治、鈴木ゆたか、窪田義弘<br>
+
+ラインプロデューサー：
+加藤賢治<br>
+<p>
+  配給：
+  東宝<br>
+
+<p>
+  製作会社：
+  「告白」製作委員会（東宝、博報堂DYメディアパートナーズ、フェイス・ワンダワークス、リクリ、双葉社、日本出版販売、ソニー・ミュージックエンタテインメント、TSUTAYAグループ）<br>
+<p>
+主題歌：
+「Last Flowers」
+レディオヘッド
+<br>
+
+
+<div id="ZZZZ">
+  <table border="7"width="850" height="60">
+  <font size="20">
+    <th><font face="sans-serif" size="4"><a href='gamenn.html'><font color="#000000">TOP</font></a></font></th>
+    <th><font face="sans-serif" size="4"><a href='rankingu.html'><font color="#000000">ランキング</font></a></font></th>
+    <th><font face="sans-serif" size="4"><a href=''><font color="#000000">過去作品</font></a></font></th>
+    <th><font face="sans-serif" size="4"><a href='rebyu.html'><font color="#000000">レビュー</font></a></font></th>
+    <th><font face="sans-serif" size="4"><a href='nyusu.html'><font color="#000000">ニュース</font></a></font></th>
+    <th><font face="sans-serif" size="4"><a href='login.html'><font color="#000000">ログイン</font></a></font></th>
+    <th><font face="sans-serif" size="4"><a href='otoiawase.html'><font color="#000000">問い合わせ</font></a></font></th>
+  </font>
+</div>
+
+</div>
+</body>
+</html>

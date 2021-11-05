@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>サイト</title>
+<link rel="stylesheet" href="css/style.css">
+   <link rel="stylesheet" href="css/menyuba.css">
+</head>
+  <body>
+    <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333;text-align:center;">
+          <h1><font size="32">映画サイト</font></h1>
+        </div>
+      <br/>
+      <div id="AB">
+      <div align="center">
+      <table border="7"width="850" height="60">
+        <font size="50">
+         <body bgcolor="">
+              <tr>
+                <th><font face="Comic Sans MS" size="4"><a href='gamenn.html'><font color="#000000">TOP</font></a></font></th>
+                <th><font face="Comic Sans MS" size="4"><a href=''><font color="#000000">過去作品</font></a></font></th>
+                <th><font face="Comic Sans MS" size="4"><a href='rebyu.html'><font color="#000000">レビュー</font></a></font></th>
+                <th><font face="Comic Sans MS" size="4"><a href='nyusu.html'><font color="#000000">ニュース</font></a></font></th>
+                <th><font face="Comic Sans MS" size="4"><a href='login.html'><font color="#000000">ログイン</font></a></font></th>
+                <th><font face="Comic Sans MS" size="4"><a href='otoiawase.html'><font color="#000000">問い合わせ</font></a></font></th>
+                    </font>
+                </table>
+              </div><br>
+<div style="text-align: center"><h1><font size="10">ロン　僕のポンコツ・ボット</font></h1></div>
+<div style="text-align: center">
+<img src="pic/1gatu/ron.jpg" alt="ロン　僕のポンコツボット" width="500" height="600">
+</div>
+<br>
+<div style="text-align: center"><h1><font size="10">あらすじ</font></h1></div>
+<p><font size="6" face="ＭＳ 明朝"><li>最新式ロボット型デバイス＜Bボット＞
+  <br>―それは、スマホよりハイテクなデジタル機能に加えて、持ち主にピッタリな友達まで見つけてくれる夢のようなデバイス！そんな＜Bボット＞で誰もが仲間と繋がる世界で、友達のいない少年バーニーの元に届いたのはオンライン接続もできないポンコツボットのロンだった！
+  <br><br>オンラインに接続できないゆえに、友達探しをすることもできないロンに、バーニーは＜友達の条件＞を説明し、＜友達の作り方＞を教え込んでいくが、やがてロンには他の＜Bボット＞にはない、特別な何かがあることに気づく。ところが、ロンは製造元のバブル社に危険な不良品とみなされ、廃棄処分の危機に―！
+  <br><br>最新式ロボット型デバイスと友達のいない少年が本当の友情を探す様子を描いたアニメーション。友達を探す機能を持つロボット型デバイスと少年が出会い、空回りしながらも奮闘する"二人"を描く。制作はロックスミス・アニメーション、監督をジャン=フィリップ・ヴァインとサラ・スミスが担当する。
+  </li></font>
+<br>
+<p>キャスト
+<p>ロン：
+ザック・ガリフィアナキス
+<p><button type="button"><font size="4"><li><a href=''><img src="pic/arasujki/ron1.jpg" alt="ロン" width="200" height="200"></a></li></button>
+<button type="button"><font size="4"><li><a href=''><img src="pic/arasujki/zakku.jpg" alt="ザック・ガリフィアナキス" width="200" height="200"></a></li></button>
+<p>バーニー：
+ジャック・ディラン・グレイザー
+<p><button type="button"><font size="4"><li><a href='meitanteikonan.html'><img src="pic/arasujki/bani.jpg" alt="バーニー" width="200" height="200"></a></li></button>
+<button type="button"><font size="4"><li><a href='meitanteikonan.html'><img src="pic/arasujki/jack.jpg" alt="ジャック・ディラン・グレイザー" width="250" height="200"></a></li></button>
+<p>日本語吹き替え
+<p>ロン：
+関智一
+<p><button type="button"><font size="4"><li><a href='meitanteikonan.html'><img src="pic/arasujki/ron1.jpg" alt="ロン" width="200" height="250"></a></li></button>
+<button type="button"><font size="4"><li><a href='meitanteikonan.html'><img src="pic/arasujki/seki.jpg" alt="関智一" width="200" height="250"></a></li></button>
+<p>バーニー：
+小薬英斗
+<p><button type="button"><font size="4"><li><a href='meitanteikonan.html'><img src="pic/arasujki/bani.jpg" alt="バーニー" width="200" height="200"></a></li></button>
+<button type="button"><font size="4"><li><a href='meitanteikonan.html'><img src="pic/arasujki/kokusuri.jpg" alt="小薬英斗" width="300" height="200"></a></li></button>
+
+<br>
+<p>スタッフ
+<p>
+監督：
+ジャン＝フィリップ・バイン　サラ・スミス<br>
+
+共同監督：
+オクタビオ・ロドリゲス<br>
+
+製作：
+ジュリー・ロックハート　ララ・ブレイ<br>
+
+製作総指揮
+エリザベス・マードック　サラ・スミス　ピーター・ベイナム<br>
+
+脚本：
+ピーター・ベイナム　サラ・スミス<br>
+
+音楽：
+ヘンリー・ジャックマン
+<p>
+  配給：
+  ２０世紀スタジオ　ウォルト・ディズニー・ジャパン<br>
+
+<p>
+  製作会社：
+  ２０世紀アニメーション　ロックスミス・アニメーション
+  DNEG
+  TSGエンターテインメント<br>
+<p>
+主題歌：
+「Sunshine」
+リアム・ペイン
+<br>
+
+
+<div id="ZZZZ">
+  <table border="7"width="850" height="60">
+  <font size="20">
+    <th><font face="sans-serif" size="4"><a href='gamenn.html'><font color="#000000">TOP</font></a></font></th>
+    <th><font face="sans-serif" size="4"><a href='rankingu.html'><font color="#000000">ランキング</font></a></font></th>
+    <th><font face="sans-serif" size="4"><a href=''><font color="#000000">過去作品</font></a></font></th>
+    <th><font face="sans-serif" size="4"><a href='rebyu.html'><font color="#000000">レビュー</font></a></font></th>
+    <th><font face="sans-serif" size="4"><a href='nyusu.html'><font color="#000000">ニュース</font></a></font></th>
+    <th><font face="sans-serif" size="4"><a href='login.html'><font color="#000000">ログイン</font></a></font></th>
+    <th><font face="sans-serif" size="4"><a href='otoiawase.html'><font color="#000000">問い合わせ</font></a></font></th>
+  </font>
+</div>
+
+</div>
+</body>
+</html>
