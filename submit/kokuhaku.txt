@@ -32,32 +32,25 @@
 </div>
 <br>
 <div style="text-align: center"><h1><font size="10">あらすじ</font></h1></div>
-<p><font size="6" face="ＭＳ 明朝"><li>「わたしは、シングルマザーです。わたしの娘は、死にました。警察は、事故死と判断しました。でも事故死ではありません。このクラスの生徒に殺されたんです」
+<p><font size="5" face="ＭＳ 明朝"><li>「わたしは、シングルマザーです。わたしの娘は、死にました。警察は、事故死と判断しました。でも事故死ではありません。このクラスの生徒に殺されたんです」
   <br>とある中学校の1年B組、終業式後の雑然としたホームルームで、教壇に立つ担任の森口悠子が静かに語り出した。
   <br><br>森口は、妊娠後に娘の父親のHIV感染が判明したことで結婚しなかったと語り、娘を殺した犯人は2人いるが名前は明かさず少年A・少年Bと述べ、少年Aが電気ショックによって娘を気絶させたこと、居合わせた少年Bが気絶した娘をプールへ投げ入れ殺害したこと、その事実を警察へ伝えて蒸し返す気はないことなどを語る。森口は、犯人である2人の給食の牛乳の中に娘の父親の血液を入れた、HIVに感染するかどうかは運次第、2人には「命」をしっかりと噛み締めてほしいと告げると教室は騒然となる。
   <br><br>娘を殺された中学校教師が生徒を相手に真相に迫っていくミステリー映画
   </li></font>
 <br>
 <p>キャスト
-<p>森口　悠子：
-松 たか子
-<br><button type="button"><font size="4"><li><a href=''><img src="pic/arasujki/matutakako.jpg" alt="松たか子" width="300" height="200"></a></li></button>
-<p>渡辺 修哉（生徒A）：
-西井 幸人
-<br><button type="button"><font size="4"><li><a href='meitanteikonan.html'><img src="pic/arasujki/nisii.jpg" alt="西井幸人" width="200" height="250"></a></li></button>
-<p>下村 直樹（生徒B）：
-藤原 薫
-<br><button type="button"><font size="4"><li><a href='meitanteikonan.html'><img src="pic/arasujki/fujiwara.jpg" alt="藤原薫" width="300" height="250"></a></li></button>
-<p>北原 美月：
-橋本 愛
-<br><button type="button"><font size="4"><li><a href='meitanteikonan.html'><img src="pic/arasujki/hasimoto.jpg" alt="橋本愛" width="250" height="200"></a></li></button>
-<p>森口 愛美:
-芦田 愛菜
-<br><button type="button"><font size="4"><li><a href='meitanteikonan.html'><img src="pic/arasujki/asida.jpg" alt="芦田愛菜" width="300" height="200"></a></li></button>
-<p>寺田　良輝:
-岡田 将生
-<br><button type="button"><font size="4"><li><a href='meitanteikonan.html'><img src="pic/arasujki/okada.jpg" alt="岡田 将生" width="200" height="250"></a></li></button>
-
+<br>
+<p>　　　　　　　　　　　　　　　森口　悠子:松 たか子　　　　　　　　　　　　　　 渡辺 修哉（生徒A）：西井 幸人</p>
+<div class="inner"><button type="button"><font size="4"><li><a href=''><img src="pic/ron.jpg" alt="松たか子" width="300" height="200"></a></li></button>
+<button type="button"><font size="4"><li><a href='meitanteikonan.html'><img src="pic/ron.jpg" alt="西井幸人" width="200" height="250"></a></li></button></div>
+<br><br>
+<p>　　　　　　　　　　下村 直樹（生徒B）：藤原 薫　　　　　　　　　　　　　　 北原 美月：橋本 愛</p>
+<div class="inner"><button type="button"><font size="4"><li><a href=''><img src="pic/ron.jpg" alt="藤原 薫" width="300" height="200"></a></li></button>
+<button type="button"><font size="4"><li><a href='meitanteikonan.html'><img src="pic/ron.jpg" alt="橋本 愛" width="200" height="250"></a></li></button></div>
+<br><br>
+<p>　　　　　　　　　　　　森口 愛美:芦田 愛菜　　　　　　　　　　　　　　 寺田　良輝:岡田 将生</p>
+<div class="inner"><button type="button"><font size="4"><li><a href=''><img src="pic/ron.jpg" alt="藤原 薫" width="300" height="200"></a></li></button>
+<button type="button"><font size="4"><li><a href='meitanteikonan.html'><img src="pic/ron.jpg" alt="橋本 愛" width="200" height="250"></a></li></button></div>
 
 <br>
 <p>スタッフ
