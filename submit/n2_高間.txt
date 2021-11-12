@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>映画情報サイト</title>
+<link rel="stylesheet" href="./css/style.css">
+</head>
+  <body>
+    <div style="padding: 0px; margin-bottom: 0px; border: 1px solid #333333;text-align:center;">
+          <h1><font size="32">映画情報サイト</font></h1>
+        </div>
+      <br/>
+      <div id="AA">
+      <div align="center">
+      <table border="7"width="950" height="80">
+        <font size="50">
+         <body bgcolor="#e6fffb">
+              <tr>
+                <th><font face="ゴシック" size="6"><a href='../../gamen/gamenn.html'><font color="#000000">TOP</font></a></font></th>
+                <th><font face="ゴシック" size="6"><a href='../../kakosakuhin/kakosakuhin.html'><font color="#000000">過去作品</font></a></font></th>
+                <th><font face="ゴシック" size="6"><a href='../../rebyu/rebyu.html'><font color="#000000">レビュー</font></a></font></th>
+                <th><font face="ゴシック" size="6"><a href='../news.html'><font color="#000000">ニュース</font></a></font></th>
+                <th><font face="ゴシック" size="6"><a href='../../login.html'><font color="#000000">ログイン</font></a></font></th>
+                <th><font face="ゴシック" size="6"><a href='../../otoiawase.html'><font color="#000000">問い合わせ</font></a></font></th>
+                    </font>
+                </table>
+              </div>
+
+            <div id="ZZ">
+             <font face="ゴシック" size="6">「ヴェノム」最新作の吹き替え版主題歌は
+                                          <br>DISH//“叫び”をテーマに新曲書き下ろし</font>
+           </div>
+
+              <div id="BB">
+                <font size="0">
+                  <img src="pic/np1.jpg" width="500" height="350">
+                </font>
+                </div>
+
+                <div id="CC">
+                  <font face="ＭＳ 明朝" size="5"><font color="">
+                      マーベル・コミックスのダークヒーローの活躍を描いた「ヴェノム」の続編
+                  <br>「ヴェノム　レット・ゼア・ビー・カーネイジ」の日本語吹き替え版主題が、
+                  <br>DISH//の新曲「Shout it out」に決定した。DISH//がハリウッド映画の
+                  <br>主題歌を担当するのは初となり、“叫び”をテーマに同曲を書き下ろした。
+                  <br>正義感あふれるジャーナリストの主人公エディ（トム・ハーディ）に、意思を持った
+                  <br>地球外生命体「シンビオート」が寄生して誕生したヴェノム。マーベル史上最も
+                  <br>残虐な悪として知られるヴェノムだが、本作では、マーベルコミック上でスパイダーマンと
+                  <br>ヴェノムが共闘して戦いを挑むレベルの強さを誇るヴィラン、カーネイジが登場する。
+                  <br>「Shout it out」は作詞を北村匠海＆橘柊生が手掛け、北村＆橘＆泉大智が
+                  <br>パートごとに作曲を行い作り上げられた。
+                  <br>DISH//のコメント映像（https://youtu.be/awz-qRcVnNA）が披露され、
+                  <br>主題歌決定の喜びや、メンバー全員で鑑賞したという本作の感想を話している。</font></font>
+                </div>
+
+                <div id="DD">
+                  <font size="0">
+                    <img src="pic/np2.jpg" width="500" height="350">
+                  </font>
+                  </div>
+
+                  <div id="EE">
+                    <font face="ＭＳ 明朝" size="5"><font color="">
+                  <br>主題歌について、北村は「（ヴェノムの敵である）カーネイジの方に感情移入しちゃって。
+                  <br>だからこそ、『叫び』がキー。悪という見方もいっぱいあって、そうなるに値する過去の
+                  <br>出来事だったりとか、何気ない一言、何気ない行動がその人にとってはすごい裏切りだったりもして。そういうところでしたね、今回メッセージに込めたのは。そんな『悲痛な叫び』
+                  <br>を僕らが歌う」と楽曲に込めた思いを語る。コメント映像のラストでは、
+                  <br>北村がサビのワンフレーズを即興で披露し、矢部、橘、泉の3人もコーラスで参加する一幕も収められている。
+                  <br>また、DISH//の4人がヴェノムに変身する映像（https://youtu.be/pambskA8SSk）もお披露目された。</font></font>
+                  </div>
+
+                  <div id="FF">
+                  <font size="5">タイトル名：<b>ヴェノム　レット・ゼア・ビー・カーネイジ</b></font>
+                  <br><b><font size="5">キャスト</font></b>
+                  <font size="5">
+                    <br>エディ・ブロック：ヴェノム/トム・ハーディ　　アン/ミシェル・ウィリアムズ
+                    <br>シュリーク/ナオミ・ハリス　　　　　　　　　　ダン/リード・スコット
+                    <br>マリガン/スティーブン・グレアム　　　　　クレタス：カーネイジ/ウッディ・ハレルソン
+                    <br>
+                  </font>
+                  </div>
+
+             <div id="Z">
+                <table border="7"width="950" height="80">
+                <font size="20">
+                  <th><font face="ゴシック" size="6"><a href='../../gamen/gamenn.html'><font color="#000000">TOP</font></a></font></th>
+                  <th><font face="ゴシック" size="6"><a href='../../kakosakuhin/kakosakuhin.html'><font color="#000000">過去作品</font></a></font></th>
+                  <th><font face="ゴシック" size="6"><a href='../../rebyu/rebyu.html'><font color="#000000">レビュー</font></a></font></th>
+                  <th><font face="ゴシック" size="6"><a href='../news.html'><font color="#000000">ニュース</font></a></font></th>
+                  <th><font face="ゴシック" size="6"><a href='../../login.html'><font color="#000000">ログイン</font></a></font></th>
+                  <th><font face="ゴシック" size="6"><a href='../../otoiawase.html'><font color="#000000">問い合わせ</font></a></font></th>
+                </font>
+              </div>
+            </div>
+          </body>
+          </html>
