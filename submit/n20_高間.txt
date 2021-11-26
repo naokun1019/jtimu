@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>映画情報サイト</title>
+<link rel="stylesheet" href="./css/style.css">
+</head>
+  <body>
+    <div style="padding: 0px; margin-bottom: 0px; border: 1px solid #333333;text-align:center;">
+          <h1><font size="32">映画情報サイト</font></h1>
+        </div>
+      <br/>
+      <div id="AA">
+      <div align="center">
+      <table border="7"width="950" height="80">
+        <font size="50">
+         <body bgcolor="#e6fffb">
+              <tr>
+                <th><font face="ゴシック" size="6"><a href='../../gamen/gamenn.html'><font color="#000000">TOP</font></a></font></th>
+                <th><font face="ゴシック" size="6"><a href='../../kakosakuhin/kakosakuhin.html'><font color="#000000">過去作品</font></a></font></th>
+                <th><font face="ゴシック" size="6"><a href='../../rebyu/rebyu.html'><font color="#000000">レビュー</font></a></font></th>
+                <th><font face="ゴシック" size="6"><a href='../news.html'><font color="#000000">ニュース</font></a></font></th>
+                <th><font face="ゴシック" size="6"><a href='../../login.html'><font color="#000000">ログイン</font></a></font></th>
+                <th><font face="ゴシック" size="6"><a href='../../otoiawase.html'><font color="#000000">問い合わせ</font></a></font></th>
+                    </font>
+                </table>
+              </div>
+
+            <div id="ZZ">
+             <font face="ゴシック" size="6">松本潤＆西島秀俊、初共演を語る「感謝」「刺激的」<br>　劇場版「99.9 刑事専門弁護士」新場面写真公開</font>
+           </div>
+
+              <div id="BB">
+                <font size="0">
+                  <img src="pic/n20-2.jpg" width="500" height="350">
+                </font>
+                </div>
+
+                <div id="CC">
+                  <font face="ＭＳ 明朝" size="5"><font color="">
+                    松本潤主演の人気ドラマを映画化する「99.9 刑事専門弁護士 THE MOVIE」の新たな場面写真が披露された。斑目法律事務所チームと対峙する弁護士・南雲恭平を演じた西島秀俊の姿をとらえている。
+                    <br>個性豊かな弁護士たちがぶつかり合いながら、99.9％有罪が確定し、逆転不可能な刑事事件に挑む姿を描く。
+                    <br>松本が0.1％の無罪の可能性にこだわる型破りな弁護士・深山大翔、香川照之が元検事の敏腕
+                    <br>弁護士・佐田篤弘を演じ、初の劇場版では、杉咲花が新米弁護士・河野穂乃果役で出演。15
+                    <br>年前に発生した毒物ワイン事件と、事件に関わる謎の弁護士・南雲（西島）とその娘・エリ
+                    <br>（蒔田彩珠)を軸に、物語が展開する。</font></font>
+                </div>
+
+                <div id="DD">
+                  <font size="0">
+                    <img src="pic/n20-3.jpg" width="500" height="350">
+                  </font>
+                  </div>
+
+                  <div id="EE">
+                    <font face="ＭＳ 明朝" size="5"><font color="">
+                  <br>西島は第74回カンヌ国際映画祭コンペティション部門へ正式出品され脚本賞ほか4部門で受賞
+                  <br>した「ドライブ・マイ・カー」をはじめ、「奥様は、取り扱い注意」、「劇場版 きのう何食
+                  <br>べた？」と、2021年公開の話題映画にも多く出演するほか、現在放映中の日本テレビ系連続
+                  <br>ドラマ「真犯人フラグ」でも主演を務めている。
+                  <br>本作では、12月29日放送のSPドラマから登場する南雲を演じ、場面写真は南雲の1ショット
+                  <br>と、斑目法律事務所に訪れた南雲が、深山らと対峙するシーンを切りとっている。
+                  <br>今回初共演となった松本と西島は、お互いについて「西島さんが参加して下さったおかげ
+                  <br>で、この作品に深みが出たと思います。西島さんには本当に感謝しています」（松本）、
+                  <br>「僕の撮影初日に、自身の撮影シーンがないにも関わらずロケ現場に松本さんが現れて、
+                  <br>作品に対する愛情と作品の一番大事な部分を背負っていることを感じて、とても刺激的でし
+                  <br>た」（西島）と語っている。</font></font>
+                  </div>
+
+                  <div id="FF">
+                  <font size="5">タイトル名：<b>99.9 刑事専門弁護士 THE MOVIE</b></font>
+                  <br><b><font size="5">キャスト</font></b>
+                  <font size="5">
+                    <br>深山大翔/松本潤　　　　佐田篤弘/香川照之
+                    <br>河野穂乃果/杉咲花　　　明石達也/片桐仁
+                    <br>南雲エリ/蒔田彩珠　　　南雲恭平/西島秀俊
+                    <br>
+                  </font>
+                  </div>
+
+             <div id="Z">
+                <table border="7"width="950" height="80">
+                <font size="20">
+                  <th><font face="ゴシック" size="6"><a href='../../gamen/gamenn.html'><font color="#000000">TOP</font></a></font></th>
+                  <th><font face="ゴシック" size="6"><a href='../../kakosakuhin/kakosakuhin.html'><font color="#000000">過去作品</font></a></font></th>
+                  <th><font face="ゴシック" size="6"><a href='../../rebyu/rebyu.html'><font color="#000000">レビュー</font></a></font></th>
+                  <th><font face="ゴシック" size="6"><a href='../news.html'><font color="#000000">ニュース</font></a></font></th>
+                  <th><font face="ゴシック" size="6"><a href='../../login.html'><font color="#000000">ログイン</font></a></font></th>
+                  <th><font face="ゴシック" size="6"><a href='../../otoiawase.html'><font color="#000000">問い合わせ</font></a></font></th>
+                </font>
+              </div>
+            </div>
+          </body>
+          </html>

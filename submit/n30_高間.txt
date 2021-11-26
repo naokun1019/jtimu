@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>映画情報サイト</title>
+<link rel="stylesheet" href="./css/style.css">
+</head>
+  <body>
+    <div style="padding: 0px; margin-bottom: 0px; border: 1px solid #333333;text-align:center;">
+          <h1><font size="32">映画情報サイト</font></h1>
+        </div>
+      <br/>
+      <div id="AA">
+      <div align="center">
+      <table border="7"width="950" height="80">
+        <font size="50">
+         <body bgcolor="#e6fffb">
+              <tr>
+                <th><font face="ゴシック" size="6"><a href='../../gamen/gamenn.html'><font color="#000000">TOP</font></a></font></th>
+                <th><font face="ゴシック" size="6"><a href='../../kakosakuhin/kakosakuhin.html'><font color="#000000">過去作品</font></a></font></th>
+                <th><font face="ゴシック" size="6"><a href='../../rebyu/rebyu.html'><font color="#000000">レビュー</font></a></font></th>
+                <th><font face="ゴシック" size="6"><a href='../news.html'><font color="#000000">ニュース</font></a></font></th>
+                <th><font face="ゴシック" size="6"><a href='../../login.html'><font color="#000000">ログイン</font></a></font></th>
+                <th><font face="ゴシック" size="6"><a href='../../otoiawase.html'><font color="#000000">問い合わせ</font></a></font></th>
+                    </font>
+                </table>
+              </div>
+
+            <div id="ZZ">
+             <font face="ゴシック" size="6">「マトリックス レザレクションズ」12月17日公開決定　<br>キアヌらが1作目の衝撃を語る特別映像も</font>
+           </div>
+
+              <div id="BB">
+                <font size="0">
+                  <img src="pic/n30-2.jpg" width="500" height="350">
+                </font>
+                </div>
+
+                <div id="CC">
+                  <font face="ＭＳ 明朝" size="5"><font color="">
+                    「マトリックス」の新章「マトリックス レザレクションズ」の日本公開日が
+                    <br>12月17日に決定した。
+                    <br>全米の12月22日に先駆けての公開となり、IMAX、Dolby Cinemaでの上映も
+                    <br>早々に決まっている。
+                    <br>1999年に公開された「マトリックス」の続編となる本作は、シリーズの生みの親であり、
+                    <br>シリーズ全作品を監督しているラナ・ウォシャウスキーがメガホンをとり、
+                    <br>キャストにはネオ役のリーブス、トリニティー役のキャリー＝アン・モスをはじめ、
+                    <br>ナイオビ役のジェイダ・ピンケット・スミス、
+                    <br>メロビンジアン役のランベール・ウィルソン、エージェント・ジョンソン役のダニエル・
+                    <br>バーンハードらがそれぞれ続投する。</font></font>
+                </div>
+
+                <div id="DD">
+                  <font size="0">
+                    <img src="pic/n30-3.jpg" width="500" height="350">
+                  </font>
+                  </div>
+
+                  <div id="EE">
+                    <font face="ＭＳ 明朝" size="5"><font color="">
+                  <br>新キャストとして、ネオを救世主と信じ、世界の真実を伝え、彼を導くモーフィアス役に
+                  <br>「アクアマン」のブラックマンタ役で知られるヤーヤ・アブドゥル＝マティーン2世、
+                  <br>ネオの宿敵エージェント・スミス役に、「マインドハンター」で主役を務めたジョナサン・
+                  <br>グロフを抜てき。ほかにも、新キャラクターとしてニール・パトリック・ハリス、
+                  <br>クリスティーナ・リッチらが出演している。
+                  <br>公開日決定にあわせて特別映像が披露され、キャストたちが登場する特別映像が
+                  <br>披露された。リーブスは「『マトリックス』を作ることは、自分を超えた新しい世界への
+                  <br>挑戦だった」と当時を振り返ると共に、「『マトリックスで人生が変わった』と言われた
+                  <br>ら、『ありがとう、僕もだよ』と答えているんだ」と、作品の影響力の高さを伝える。
+                  <br>アン・モスは、本作で人生が大きく変わったことを「一生に一度のチャンスだった」
+                  <br>と表現し、「『よけてみな（Dodge this）』があんなに有名になるなんて！」と
+                  <br>多くのファンに愛されているセリフに言及している。</font></font>
+                  </div>
+<br><br>
+                  <div id="FF">
+                  <font size="5">タイトル名：<b>マトリックス レザレクションズ</b></font>
+                  <br><b><font size="5">キャスト</font></b>
+                  <font size="5">
+                    <br>ネオ/キヌア・リーブス　　　トリニティー/キャリー＝アン・モス
+                    <br>モーフィアス/ヤーヤ・アブドゥル＝マティーン２世　　　
+                    <br>エージェント・スミス/ジョナサン・グロフ　　　　
+                    <br>
+                  </font>
+                  </div>
+
+             <div id="Z">
+                <table border="7"width="950" height="80">
+                <font size="20">
+                  <th><font face="ゴシック" size="6"><a href='../../gamen/gamenn.html'><font color="#000000">TOP</font></a></font></th>
+                  <th><font face="ゴシック" size="6"><a href='../../kakosakuhin/kakosakuhin.html'><font color="#000000">過去作品</font></a></font></th>
+                  <th><font face="ゴシック" size="6"><a href='../../rebyu/rebyu.html'><font color="#000000">レビュー</font></a></font></th>
+                  <th><font face="ゴシック" size="6"><a href='../news.html'><font color="#000000">ニュース</font></a></font></th>
+                  <th><font face="ゴシック" size="6"><a href='../../login.html'><font color="#000000">ログイン</font></a></font></th>
+                  <th><font face="ゴシック" size="6"><a href='../../otoiawase.html'><font color="#000000">問い合わせ</font></a></font></th>
+                </font>
+              </div>
+            </div>
+          </body>
+          </html>

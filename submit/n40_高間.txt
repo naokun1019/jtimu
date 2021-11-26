@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>映画情報サイト</title>
+<link rel="stylesheet" href="./css/style.css">
+</head>
+  <body>
+    <div style="padding: 0px; margin-bottom: 0px; border: 1px solid #333333;text-align:center;">
+          <h1><font size="32">映画情報サイト</font></h1>
+        </div>
+      <br/>
+      <div id="AA">
+      <div align="center">
+      <table border="7"width="950" height="80">
+        <font size="50">
+         <body bgcolor="#e6fffb">
+              <tr>
+                <th><font face="ゴシック" size="6"><a href='../../gamen/gamenn.html'><font color="#000000">TOP</font></a></font></th>
+                <th><font face="ゴシック" size="6"><a href='../../kakosakuhin/kakosakuhin.html'><font color="#000000">過去作品</font></a></font></th>
+                <th><font face="ゴシック" size="6"><a href='../../rebyu/rebyu.html'><font color="#000000">レビュー</font></a></font></th>
+                <th><font face="ゴシック" size="6"><a href='../news.html'><font color="#000000">ニュース</font></a></font></th>
+                <th><font face="ゴシック" size="6"><a href='../../login.html'><font color="#000000">ログイン</font></a></font></th>
+                <th><font face="ゴシック" size="6"><a href='../../otoiawase.html'><font color="#000000">問い合わせ</font></a></font></th>
+                    </font>
+                </table>
+              </div>
+
+            <div id="ZZ">
+             <font face="ゴシック" size="6">原田知世＆田中圭、いい夫婦の日に「あな番」会見<br>トークはまさかの“すれ違い”</font>
+           </div>
+
+              <div id="BB">
+                <font size="0">
+                  <img src="pic/np1.jpg" width="500" height="350">
+                </font>
+                </div>
+
+                <div id="CC">
+                  <font face="ＭＳ ゴシック" size="5"><font color="">
+                    2019年に放送され、ネット上で考察合戦が過熱したテレビドラマを映画化した
+                    <br>「あなたの番です 劇場版」の完成報告会見が11月22日、都内で行われ、主演の原田知世
+                    <br>と田中圭、共演する西野七瀬、横浜流星、浅香航大、奈緒、坪倉由幸、袴田吉彦、片桐仁、
+                    <br>野間口徹、皆川猿時、木村多江、佐久間紀佳監督が勢ぞろいした。
+                    <br>
+                    <br>都内マンションで繰り広げられる“交換殺人ゲーム”に巻き込まれた新婚夫婦・菜奈
+                    <br>（原田）と翔太（田中）の運命を描いた同名ドラマの映画版。テレビ版に引き続き秋元康
+                    <br>が企画・原案を手がけ、「もしもマンションの住民会に出席したのが妻ではなく夫だった
+                    <br>ら？」「交換殺人ゲームが始まらなかったら？」というパラレルワールドのもと、菜奈と
+                    <br>翔太の船上ウェディングパーティーを舞台に、逃げ場のない新たな連続殺人事件が
+                    <br>巻き起こる。</font></font>
+                </div>
+
+                <div id="DD">
+                  <font size="0">
+                    <img src="pic/np2.jpg" width="500" height="350">
+                  </font>
+                  </div>
+
+                  <div id="EE">
+                    <font face="ＭＳ ゴシック" size="5"><font color="">
+                  <br>ドラマでは非業の死を遂げた原田だが、今回の劇場版では“復活”を果たし「諦めていたん
+                  <br>ですが、なんとまた新しい人生を翔太くんと歩むことになった」と安どの表情。
+                  <br>夫を演じる田中も「こうして皆さんと再会し、映画の公開が近づいているので勝手にテン
+                  <br>ションがあがっている。菜奈ちゃんとまた一緒に歩む世界線はうれしかったですし、
+                  <br>すんなりあのときの空気感に戻っていた」と意気揚々だった。
+                  <br>
+                  <br>会見は“いい夫婦の日”にあたる11月22日に行われたが、ドラマと劇場版の違いに話題が
+                  <br>及ぶと「今回はわたしたち夫婦が離れている時間もあって、すれ違って……」（原田）、
+                  <br>「何の話ですか？　そんなことないですよ！」（田中）とこちらの夫婦はまさかの
+                  <br>“すれ違い”トーク。それでも原田が「いい夫婦の秘けつは、お互いを信じること」と持論
+                  <br>を展開すると、田中も「そうですね。愛です、愛」とうなずき、仲の良さも披露していた。
+                  <br>
+                  <br>そんなふたりは、「たくさんの皆さんから信じられない反響と、うれしい応援をいただき、
+                  <br>劇場版につながった。『あな番』ファンの皆さんが十分納得いただける作品になっている」
+                  <br>（原田）、「面白いから見に来てと堂々と言える作品。お祭りだと思っております。
+                  <br>視聴者の皆さんの力で実現した劇場版なので、『自分がこの映画を作ったんだ』とドヤって
+                  <br>ください」（田中）と自信のアピール。
+                  <br>
+                  <br>また、田中は「翔太と言えば暴走。まっすぐがゆえ、バカがゆえ暴走してしまうが、ピュア
+                  <br>な人間の一直線は時と場合にとっては、めちゃくちゃ怖いんで」と役どころの見せ場を
+                  <br>熱弁していた。</font></font>
+                  </div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+                  <div id="FF">
+                  <font size="5">タイトル名：<b>あなたの番です　劇場版</b></font>
+                  <br><b><font size="5">キャスト</font></b>
+                  <font size="5">
+                    <br>手塚菜奈/原田知世　　　　手塚翔太/田中圭
+                    <br>黒島沙和/西野七瀬　　　　二階堂忍/横浜流星
+                    <br>神谷将人/浅香航大　　　　小野幹葉/奈緒
+                    <br>
+                  </font>
+                  </div>
+
+             <div id="Z">
+                <table border="7"width="950" height="80">
+                <font size="20">
+                  <th><font face="ゴシック" size="6"><a href='../../gamen/gamenn.html'><font color="#000000">TOP</font></a></font></th>
+                  <th><font face="ゴシック" size="6"><a href='../../kakosakuhin/kakosakuhin.html'><font color="#000000">過去作品</font></a></font></th>
+                  <th><font face="ゴシック" size="6"><a href='../../rebyu/rebyu.html'><font color="#000000">レビュー</font></a></font></th>
+                  <th><font face="ゴシック" size="6"><a href='../news.html'><font color="#000000">ニュース</font></a></font></th>
+                  <th><font face="ゴシック" size="6"><a href='../../login.html'><font color="#000000">ログイン</font></a></font></th>
+                  <th><font face="ゴシック" size="6"><a href='../../otoiawase.html'><font color="#000000">問い合わせ</font></a></font></th>
+                </font>
+              </div>
+            </div>
+          </body>
+          </html>
